@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Digital-Clock-in-Python
-=======
 # Digital Clock
 
 This is a simple digital clock created using Python's tkinter library. It displays the current time in hours, minutes, and seconds.
@@ -42,9 +39,8 @@ The digital clock will be displayed in a tkinter window. It updates every second
 
 ## Example
 
-![Digital Clock](digital_clock.png)
+![Digital Clock](digital-clock.png)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> ac548e4 (Create README.md)
